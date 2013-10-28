@@ -118,6 +118,7 @@
         "title": "Privacy ed anonimato su Internet",
         "when": "14:00",
         "where": "Aula Advanced",
+        "slides": "slides/privacyLD2013.pdf",
         "speakers": [
             {
                 "who": "Davide Mainardi",
