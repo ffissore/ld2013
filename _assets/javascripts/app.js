@@ -5,3 +5,4 @@
 //= require jquery.easing.1.3.js
 //= require jquery.flexslider-min.js
 //= require prettyPhoto/js/jquery.prettyPhoto.js
+//= require lightbox-2.6.min.js
