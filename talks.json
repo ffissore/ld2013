@@ -5,6 +5,7 @@
         "when": "14:00",
         "where": "Aula Base",
         "slides": "slides/primipassi.pdf",
+        "video": "HCpqe9_Fqlc",
         "speakers": [
             {
                 "who": "Marco Dorigo",
@@ -18,6 +19,7 @@
         "title": "Installiamo insieme Debian",
         "when": "15:00",
         "where": "Aula Base",
+        "video": "_sFnQvMc2es",
         "speakers": [
             {
                 "who": "Guido Audino",
@@ -31,6 +33,7 @@
         "title": "Come &egrave; strutturato un Sistema GNU/Linux",
         "when": "16:00",
         "where": "Aula Base",
+        "video": "C_bLwNMiM1Q",
         "speakers": [
             {
                 "who": "Massimo Nuvoli",
@@ -44,6 +47,7 @@
         "title": "Corsi Online per Insegnanti",
         "when": "17:00",
         "where": "Aula Base",
+        "video": "gfRflfVBPmk",
         "speakers": [
             {
                 "who": "Marco Bodrato"
@@ -59,6 +63,7 @@
         "title": "Fotografia Digitale",
         "when": "14:00",
         "where": "Aula Medium",
+        "video": "4Cz7ZWVohXs",
         "speakers": [
             {
                 "who": "Giorgio Ferrero"
@@ -72,6 +77,7 @@
         "when": "15:00",
         "where": "Aula Medium",
         "slides": "slides/terminale.pdf",
+        "video": "K6E4EOKOGOU",
         "speakers": [
             {
                 "who": "Simone Capodicasa",
@@ -86,6 +92,7 @@
         "when": "16:00",
         "where": "Aula Medium",
         "slides": "slides/ArduinoYun.odp",
+        "video": "-Nt7bRGXtYU",
         "speakers": [
             {
                 "who": "Federico Fissore",
@@ -119,6 +126,7 @@
         "when": "14:00",
         "where": "Aula Advanced",
         "slides": "slides/privacyLD2013.pdf",
+        "video": "MUOeeL2iFic",
         "speakers": [
             {
                 "who": "Davide Mainardi",
@@ -132,6 +140,7 @@
         "title": "Asterisk: centralino VoIP FLOSS",
         "when": "15:00",
         "where": "Aula Advanced",
+        "video": "05MR6oKgJEg",
         "speakers": [
             {
                 "who": "Marco Zanasso",
@@ -146,6 +155,7 @@
         "title": "Zabbix: Monitoring is possible",
         "when": "16:00",
         "where": "Aula Advanced",
+        "video": "IO7Ja_hyQBI",
         "speakers": [
             {
                 "who": "Dimitri Bellini",
@@ -161,6 +171,7 @@
         "when": "17:00",
         "where": "Aula Advanced",
         "slides": "slides/Fastboot_in_sistemi_embedded.pdf",
+        "video": "256NvkPetu0",
         "speakers": [
             {
                 "who": "Paolo Doz",
@@ -206,6 +217,7 @@
         "title": "Penetration Test con Kali Linux",
         "when": "16:00",
         "where": "Aula Sikurezza",
+        "slides": "slides/kali.pdf",
         "speakers": [
             {
                 "who": "Paolo Stagno",

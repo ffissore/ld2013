@@ -104,6 +104,9 @@ layout: default
                 {% if talk.repo != null %}
                 <a href="{{ talk.repo }}"><img src="images/icon-arrow-right.png" /> Scarica il codice</a>
                 {% endif %}
+                {% if talk.video != null %}
+                <a href="http://www.youtube.com/watch?v={{ talk.video }}"><img src="images/icon-arrow-right.png" /> Guarda il video</a>
+                {% endif %}
             </div><!-- .event-wraper -->
             {% endfor %}
 
